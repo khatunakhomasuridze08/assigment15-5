@@ -131,7 +131,6 @@ body {
     font-size: 12px;
     display: block;
     margin-bottom: 24px;
-
 }
     
 .direct_img {
@@ -168,8 +167,6 @@ body {
 .building_article {
     display: inline-block;
     margin-right: 40px;
-    
-
 }
 
 .building_img_wr {
@@ -202,14 +199,13 @@ body {
     font-size: 11px;
     margin-bottom: 8px;
     color: #D1D1D1;
-   
 }
+
 .building_link {
     display: block;
     font-size: 11px;
     color: #434343;
     margin-top: 10px;
     margin-bottom: 20px;
-
 }
 
